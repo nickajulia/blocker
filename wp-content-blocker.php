@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: wp-content-blocker
-Plugin URI: http://voodoopress.net
-Description: Some description.
+Plugin URI: http://mindheros.com
+Description: Get subscribers without gating your content - Mindheros.com
 Version: 1.1
-Author: Evgen "EvgenDob" Dobrzhanskiy
-Author URI: http://voodoopress.net
-Stable tag: 1.1
+Author: Nick Julia
+Author URI: http://mindheros.com
+Stable tag: 1.12
 */
 
 //error_reporting(E_ALL);

@@ -172,4 +172,22 @@ $fields_parameters = array(
  
 );		
 new vooMetaBox( $meta_box, $fields_parameters); 
+
+$meta_box = array(
+	'title' => 'Enter Bot appId',
+	'post_type' => 'lockers',
+	'position' => 'side',
+	'place' => 'high'
+);
+$fields_parameters = array(
+	array(
+		'type' => 'text',
+		'title' => 'Bot appId',
+		'name' => 'bot_appId',
+		'style' => 'height:300px; width:100%;'
+	),
+ 
+ 
+);		
+new vooMetaBox( $meta_box, $fields_parameters); 
 ?>
